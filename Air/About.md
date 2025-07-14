@@ -52,7 +52,7 @@
 
 &nbsp;		print "Digite um cálculo\\n>"
 
-&nbsp;		requestInput valor1, op, valor2 // requere que uma entrada de texto como o teclado seja usada para um 'scanf()' em C
+&nbsp;		requestInput valor1, op, valor2 // requere que uma entrada de texto(como o teclado) seja usada para um 'scanf()' em C
 
 &nbsp;		result = call 'calculate': valor1, op, valor2
 
